@@ -1,1 +1,1 @@
-C - Functions, nested loops
+This directory is about functions and nested loops
